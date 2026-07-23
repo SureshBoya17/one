@@ -779,8 +779,8 @@
             {
                 id: 3,
                 title: 'Apple Watch Series 8',
-                price: 477,
-                oldPrice: 399,
+                price: 777,
+                oldPrice: 999,
                 rating: 5,
                 reviews: 214,
                 badge: '-25%',
@@ -817,7 +817,7 @@
             {
                 id: 7,
                 title: 'Travel Backpack',
-                price: 299,
+                price: 59,
                 oldPrice: 99,
                 rating: 4,
                 reviews: 67,
